@@ -19,6 +19,7 @@ namespace Main
         public string[] enemyStats = new string[100];
         public string[] enemyStatusEffects = new string[100];
         public string[] inventory = new string[100];
+        
         public int momentum = 0;
         Random rnd = new Random();
         public Battle()
