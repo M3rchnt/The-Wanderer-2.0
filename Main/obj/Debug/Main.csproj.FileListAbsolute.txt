@@ -1,0 +1,121 @@
+C:\Users\death\source\repos\The Wanderer 2.0\Main\bin\Debug\Main.exe.config
+C:\Users\death\source\repos\The Wanderer 2.0\Main\bin\Debug\Main.exe
+C:\Users\death\source\repos\The Wanderer 2.0\Main\bin\Debug\Main.pdb
+C:\Users\death\source\repos\The Wanderer 2.0\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\death\source\repos\The Wanderer 2.0\Main\obj\Debug\Main.MainForm.resources
+C:\Users\death\source\repos\The Wanderer 2.0\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\death\source\repos\The Wanderer 2.0\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\death\source\repos\The Wanderer 2.0\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\death\source\repos\The Wanderer 2.0\Main\obj\Debug\Main.exe
+C:\Users\death\source\repos\The Wanderer 2.0\Main\obj\Debug\Main.pdb
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\bin\Debug\Main.exe.config
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\bin\Debug\Main.exe
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\bin\Debug\Main.pdb
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\obj\Debug\Main.MainForm.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\obj\Debug\Main.exe
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\obj\Debug\Main.pdb
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\obj\Debug\Main.Battle.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\obj\Debug\Main.CharacterStats.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\obj\Debug\Main.EnemyStats.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\obj\Debug\Main.Inventory.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0\Main\obj\Debug\Main.Merchant.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.exe.config
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.exe
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.pdb
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Battle.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.CharacterStats.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.EnemyStats.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Inventory.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.MainForm.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Merchant.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.exe
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.pdb
+C:\Users\death\Desktop\Coding\Grade 12 Tech\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Tutorial.resources
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.exe.config
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.exe
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.pdb
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Battle.resources
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.CharacterStats.resources
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.EnemyStats.resources
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Inventory.resources
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.MainForm.resources
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Merchant.resources
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Tutorial.resources
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.exe
+C:\Users\epgae\Desktop\New folder (3)\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.pdb
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.exe.config
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.exe
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.pdb
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Battle.resources
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.CharacterStats.resources
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.EnemyStats.resources
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Inventory.resources
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.MainForm.resources
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Merchant.resources
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Tutorial.resources
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.exe
+C:\Users\rehma\OneDrive\Documents\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.pdb
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.exe.config
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.exe
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.pdb
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Battle.resources
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.CharacterStats.resources
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.EnemyStats.resources
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Inventory.resources
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.MainForm.resources
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Merchant.resources
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Tutorial.resources
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.exe
+C:\Users\death\Downloads\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.pdb
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.exe.config
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.exe
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\bin\Debug\Main.pdb
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Battle.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.CharacterStats.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.EnemyStats.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Inventory.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.MainForm.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Merchant.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.Tutorial.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.exe
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy pre-optimization) The Wanderer 2.0\(Final Copy pre-optimization) The Wanderer 2.0\The Wanderer 2.0 - Copy (Broken)\Main\obj\Debug\Main.pdb
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\bin\Debug\Main.exe.config
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\bin\Debug\Main.exe
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\bin\Debug\Main.pdb
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\obj\Debug\Main.Battle.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\obj\Debug\Main.CharacterStats.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\obj\Debug\Main.EnemyStats.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\obj\Debug\Main.Inventory.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\obj\Debug\Main.MainForm.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\obj\Debug\Main.Merchant.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\obj\Debug\Main.Tutorial.resources
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\obj\Debug\Main.exe
+C:\Users\death\Desktop\Coding\Grade 12 Tech\(Final Copy Optimized) The Wanderer 2.0\(Final Copy Optimized) The Wanderer 2.0\The Wanderer 2.0\Main\obj\Debug\Main.pdb
